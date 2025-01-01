@@ -1,0 +1,10 @@
+File Handling in Python
+
+1. Create a file 
+2. Open a file
+3. Read file
+4. Write to file
+5. Append to file
+6. Close a file
+7. Rename files
+8. Delete files
